@@ -35,6 +35,8 @@ crop - Suitable crop to grow (target variable)
 
 ##### Evaluation critera & Metrics
   - evaluated using Accuracy Score.
+  
+![image](https://user-images.githubusercontent.com/51507434/228628737-0427309f-fe3e-4ff6-8e8b-d48c277a0efa.png)
 
 
 ###### What I learnt & explored 
