@@ -9,11 +9,35 @@ Precision agriculture is a modern farming technique that aims to solve the probl
 ### Objective
 Build a Machine Learning model to predict the most suitable crop to grow on a particular farm
 
-#### Evaluation critera & Metrics
+
+#### About the Dataset
+
+This dataset was built by augmenting datasets of rainfall, climate and fertilizer data available for India.
+
+Data Description
+N - ratio of Nitrogen content in soil
+
+P - ratio of Phosphorus content in soil
+
+K - ratio of Potassium content in soil
+
+temperature - temperature in degree Celsius
+
+humidity - relative humidity in %
+
+ph - ph value of the soil
+
+rainfall - rainfall in mm
+
+crop - Suitable crop to grow (target variable)
+
+
+
+##### Evaluation critera & Metrics
   - evaluated using Accuracy Score.
 
 
-##### What I learnt & explored 
+###### What I learnt & explored 
  - Exploratory Data Analysis 
  - Supervised Learning Algorithms - Classification Techniques
 
