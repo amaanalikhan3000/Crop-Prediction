@@ -1,4 +1,4 @@
-# (Task 6) Crop-Prediction & Recommendation 
+# (Task 6) Crop-Prediction 
 
 ## Problem Statement
 Precision agriculture is a modern farming technique that aims to solve the problem of farmers selecting the wrong crop based on their soil requirements, resulting in reduced productivity. By utilizing research data on soil characteristics and crop yield data collection, precision agriculture can suggest the right crop based on site-specific parameters, ultimately leading to increased productivity for farmers.
