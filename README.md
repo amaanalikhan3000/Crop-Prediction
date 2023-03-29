@@ -14,3 +14,7 @@ Build a Machine Learning model to predict the most suitable crop to grow on a pa
 ##### What I learnt & explored 
  - Exploratory Data Analysis 
  - Supervised Learning Algorithms - Classification Techniques
+
+
+
+![image](https://user-images.githubusercontent.com/51507434/228625685-1474ba57-66ab-45cf-9de3-c4c663bb8af5.png)
